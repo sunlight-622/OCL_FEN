@@ -7,5 +7,6 @@ Current artificial intelligence systems have shown excellent performance on the 
 
 #  Requirements
 1)Python 3.6+
+
 2)Torch 2.0+
 
