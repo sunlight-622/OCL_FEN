@@ -11,7 +11,7 @@ Current artificial intelligence systems have shown excellent performance on the 
 2)Torch 2.0+
 
 #  Benchmarks
-Data processing is based on the online continual learning library.
+Data processing is based on the online_Continual_Learning_Datasets_Repository.
 
 #  License
 This project is released under the AGPL-2.0 license .
